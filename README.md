@@ -1,1 +1,0 @@
-# Working proj for CoreyDjangoBlog
