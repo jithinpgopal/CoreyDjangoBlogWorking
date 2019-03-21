@@ -1,0 +1,16 @@
+{% extends "ticketing/base.html" %}
+{% block content %}
+<div class="leftcolumn">
+        <div class="row">
+                <article class="casefile card">
+                  <div >
+                      <h><a class="caseheading" href="#">{{ object.title }}</a></h>
+                      <a class="caseusername"  href="#">{{ object.creator }}</a>
+                      <p><small >{{ object.date_posted|date:"F d, Y" }}</small></p>
+                      <hr>
+                      <p class="article-content">{{ object.content }}</p>
+                  </div>
+                </article>
+        </div>
+    </div>
+{% endblock content %}
