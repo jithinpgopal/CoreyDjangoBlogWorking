@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="d8f46739-e685-4842-abc2-233833f48cb1" name="Default Changelist" comment="">
 <<<<<<< HEAD
+<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/.idea/CoreyDjangoBlog.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
@@ -88,6 +89,9 @@
       <change beforePath="$PROJECT_DIR$/ticketing/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/ticketing/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ticketing/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/ticketing/views.py" afterDir="false" />
 >>>>>>> ticketing02
+=======
+      <change afterPath="$PROJECT_DIR$/gitignore" afterDir="false" />
+>>>>>>> ticketing02
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -101,11 +105,16 @@
         <entry file="file://$PROJECT_DIR$/ticketing/views.py">
           <provider selected="true" editor-type-id="text-editor">
 <<<<<<< HEAD
+<<<<<<< HEAD
             <state relative-caret-position="-125">
               <caret line="6" column="49" selection-start-line="6" selection-start-column="49" selection-end-line="6" selection-end-column="49" />
 =======
             <state relative-caret-position="195">
               <caret line="27" column="37" selection-start-line="27" selection-start-column="37" selection-end-line="27" selection-end-column="37" />
+>>>>>>> ticketing02
+=======
+            <state relative-caret-position="266">
+              <caret line="29" selection-start-line="29" selection-end-line="29" />
 >>>>>>> ticketing02
               <folding>
                 <element signature="e#0#35#0" expanded="true" />
@@ -124,6 +133,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+<<<<<<< HEAD
 <<<<<<< HEAD
         <entry file="file://$PROJECT_DIR$/blog/urls.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -153,6 +163,8 @@
               </folding>
 =======
       <file pinned="false" current-in-tab="false">
+=======
+>>>>>>> ticketing02
         <entry file="file://$PROJECT_DIR$/blog/urls.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="150">
@@ -167,8 +179,16 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/blog/views.py">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="-527">
               <caret line="3" selection-start-line="3" selection-end-line="9" selection-end-column="1" />
+>>>>>>> ticketing02
+=======
+            <state relative-caret-position="204">
+              <caret line="46" selection-start-line="46" selection-end-line="46" />
+              <folding>
+                <element signature="e#0#54#0" expanded="true" />
+              </folding>
 >>>>>>> ticketing02
             </state>
           </provider>
@@ -180,10 +200,10 @@
           <provider selected="true" editor-type-id="text-editor" />
 =======
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ticketing/static/ticketing/newj.css">
+        <entry file="file://$PROJECT_DIR$/gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="110" column="12" lean-forward="true" selection-start-line="110" selection-start-column="12" selection-end-line="110" selection-end-column="12" />
+            <state>
+              <caret column="5" lean-forward="true" selection-start-column="5" selection-end-column="5" />
             </state>
           </provider>
 >>>>>>> ticketing02
@@ -196,6 +216,7 @@
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ticketing/templates/ticketing/home.html">
+<<<<<<< HEAD
 <<<<<<< HEAD
           <provider selected="true" editor-type-id="text-editor" />
 =======
@@ -217,17 +238,25 @@
             </state>
           </provider>
 >>>>>>> ticketing02
+=======
+          <provider selected="true" editor-type-id="text-editor" />
+>>>>>>> ticketing02
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ticketing/urls.py">
           <provider selected="true" editor-type-id="text-editor">
 <<<<<<< HEAD
+<<<<<<< HEAD
             <state relative-caret-position="85">
               <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
 =======
             <state relative-caret-position="102">
               <caret line="6" column="15" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="15" />
+>>>>>>> ticketing02
+=======
+            <state relative-caret-position="85">
+              <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
 >>>>>>> ticketing02
               <folding>
                 <element signature="e#0#28#0" expanded="true" />
@@ -270,6 +299,7 @@
         <option value="$PROJECT_DIR$/ticketing/views.py" />
         <option value="$PROJECT_DIR$/ticketing/templates/ticketing/home.html" />
         <option value="$PROJECT_DIR$/ticketing/static/ticketing/newj.css" />
+        <option value="$PROJECT_DIR$/gitignore" />
       </list>
     </option>
   </component>
@@ -313,6 +343,7 @@
               <item name="templates" type="462c0819:PsiDirectoryNode" />
               <item name="blog" type="462c0819:PsiDirectoryNode" />
             </path>
+<<<<<<< HEAD
             <path>
               <item name="CoreyDjangoBlog" type="b2602c69:ProjectViewProjectNode" />
               <item name="CoreyDjangoBlog" type="462c0819:PsiDirectoryNode" />
@@ -356,6 +387,8 @@
 >>>>>>> ticketing02
               <item name="ticketing" type="462c0819:PsiDirectoryNode" />
             </path>
+=======
+>>>>>>> ticketing02
           </expand>
           <select />
         </subPane>
@@ -405,7 +438,7 @@
     <frame x="-8" y="-8" width="1296" height="696" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24861" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24861" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -416,11 +449,15 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
+<<<<<<< HEAD
       <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.3280142" />
 <<<<<<< HEAD
       <window_info anchor="bottom" id="Python Console" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
 =======
+=======
+      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.3280142" />
+>>>>>>> ticketing02
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" />
 >>>>>>> ticketing02
@@ -598,8 +635,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/blog/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-527">
-          <caret line="3" selection-start-line="3" selection-end-line="9" selection-end-column="1" />
+        <state relative-caret-position="204">
+          <caret line="46" selection-start-line="46" selection-end-line="46" />
+          <folding>
+            <element signature="e#0#54#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -616,11 +656,16 @@
     <entry file="file://$PROJECT_DIR$/ticketing/urls.py">
       <provider selected="true" editor-type-id="text-editor">
 <<<<<<< HEAD
+<<<<<<< HEAD
         <state relative-caret-position="85">
           <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
 =======
         <state relative-caret-position="102">
           <caret line="6" column="15" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="15" />
+>>>>>>> ticketing02
+=======
+        <state relative-caret-position="85">
+          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
 >>>>>>> ticketing02
           <folding>
             <element signature="e#0#28#0" expanded="true" />
@@ -640,8 +685,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ticketing/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="27" column="37" selection-start-line="27" selection-start-column="37" selection-end-line="27" selection-end-column="37" />
+        <state relative-caret-position="266">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
           <folding>
             <element signature="e#0#35#0" expanded="true" />
           </folding>
@@ -656,11 +701,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ticketing/templates/ticketing/home.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/ticketing/static/ticketing/newj.css">
       <provider selected="true" editor-type-id="text-editor">
@@ -669,6 +710,7 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/blog/views.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
@@ -676,6 +718,12 @@
           <folding>
             <element signature="e#0#54#0" expanded="true" />
           </folding>
+=======
+    <entry file="file://$PROJECT_DIR$/gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="5" lean-forward="true" selection-start-column="5" selection-end-column="5" />
+>>>>>>> ticketing02
         </state>
       </provider>
     </entry>
